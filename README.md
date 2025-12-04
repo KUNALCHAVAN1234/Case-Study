@@ -6,8 +6,8 @@ This project extracts and analyzes financial performance data for publicly liste
 The goal is to demonstrate the ability to design a real data pipeline end-to-end: 
 data extraction, cleaning, validation, KPI engineering, visualization, and insight generation.
 
-The final structured dataset contains **278 companies** across **3 most recent fiscal years**, 
-meeting the requirement of 100–500 companies. The analysis includes **10+ key financial KPIs** 
+The final structured dataset contains ** companies** across **3 or more  recent fiscal years**, 
+. The analysis includes **10+ key financial KPIs** 
 covering profitability, efficiency, valuation, and growth.
 
 ---
